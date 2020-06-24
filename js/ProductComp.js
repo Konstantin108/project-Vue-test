@@ -4,7 +4,7 @@ Vue.component('products', {
             catalogUrl: '/catalogData.json',
             products: [],
             filtered: [],
-            imgCatalog: 'img/oops.jpg',
+            // imgCatalog: 'img/oops.jpg',
         }
     },
     methods: {
@@ -24,7 +24,7 @@ Vue.component('products', {
     },
     template: `
         <div class="products">
-            <product v-for="item of filtered" :key="item.id_product" :img="imgCatalog" :product="item"></product>
+            <product v-for="item of filtered" :key="item.id_product" :img="item.product_img" :product="item"></product>
         </div>
     `
 });

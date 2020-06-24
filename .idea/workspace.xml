@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1a3a46c6-d00c-439b-8472-d5fbe5a34f4c" name="Default Changelist" comment="" />
+    <list default="true" id="1a3a46c6-d00c-439b-8472-d5fbe5a34f4c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/ProductComp.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/ProductComp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/responses/catalogData.json" beforeDir="false" afterPath="$PROJECT_DIR$/responses/catalogData.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/responses/img/product_content.jpg" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +34,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Vue Интернет магазин одежды" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -57,6 +62,7 @@
       <workItem from="1590357823137" duration="75000" />
       <workItem from="1590960663170" duration="41000" />
       <workItem from="1593010686950" duration="5731000" />
+      <workItem from="1593020640259" duration="627000" />
     </task>
     <servers />
   </component>
