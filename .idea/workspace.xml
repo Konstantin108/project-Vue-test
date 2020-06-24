@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1a3a46c6-d00c-439b-8472-d5fbe5a34f4c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/ProductComp.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/ProductComp.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +58,7 @@
       <workItem from="1590098970615" duration="40000" />
       <workItem from="1590357823137" duration="75000" />
       <workItem from="1590960663170" duration="41000" />
-      <workItem from="1593010686950" duration="4259000" />
+      <workItem from="1593010686950" duration="5446000" />
     </task>
     <servers />
   </component>
@@ -75,5 +74,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040/-1440.180.1440.860@0.0.1920.1040" timestamp="1593010814077" />
+    <state x="914" y="258" width="583" height="562" key="find.popup" timestamp="1593020046389">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="914" y="258" width="583" height="562" key="find.popup/0.0.1920.1040/1920.0.1920.1040/-1440.180.1440.860@0.0.1920.1040" timestamp="1593020046389" />
   </component>
 </project>
