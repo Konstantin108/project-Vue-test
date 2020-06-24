@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="1a3a46c6-d00c-439b-8472-d5fbe5a34f4c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index22.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/test.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +33,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Quiz" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Vue Интернет магазин одежды" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -54,7 +55,12 @@
       <workItem from="1587916850344" duration="928000" />
       <workItem from="1589129465585" duration="1291000" />
       <workItem from="1589729892287" duration="228000" />
-      <workItem from="1589730144604" duration="5358000" />
+      <workItem from="1589730144604" duration="6093000" />
+      <workItem from="1589736680052" duration="1770000" />
+      <workItem from="1590098970615" duration="40000" />
+      <workItem from="1590357823137" duration="75000" />
+      <workItem from="1590960663170" duration="41000" />
+      <workItem from="1593010686950" duration="292000" />
     </task>
     <servers />
   </component>
@@ -62,9 +68,13 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1589730926965">
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589736770246">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040/-1440.180.1440.860@0.0.1920.1040" timestamp="1589730926965" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1920.1040/-1440.180.1440.860@0.0.1920.1040" timestamp="1589736770246" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1593010814077">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040/-1440.180.1440.860@0.0.1920.1040" timestamp="1593010814077" />
   </component>
 </project>

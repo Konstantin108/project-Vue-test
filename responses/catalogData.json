@@ -1,22 +1,47 @@
 [
   {
     "id_product": 12,
-    "product_name": "Ноутбук",
-    "price": 45600
+    "product_name": "MANGO PEOPLE T-SHIRT",
+    "price": 50.50
   },
   {
     "id_product": 34,
-    "product_name": "Мышка",
-    "price": 1000
+    "product_name": "MANGO PEOPLE T-SHIRT",
+    "price": 50.50
   },
   {
     "id_product": 56,
-    "product_name": "Клавиатура",
-    "price": 2600
+    "product_name": "MANGO PEOPLE T-SHIRT",
+    "price": 52.00
   },
   {
     "id_product": 78,
-    "product_name": "Микрофон",
-    "price": 5000
+    "product_name": "MANGO PEOPLE T-SHIRT",
+    "price": 89.00
+  },
+  {
+    "id_product": 78,
+    "product_name": "MANGO PEOPLE T-SHIRT",
+    "price": 89.99
+  },
+  {
+    "id_product": 78,
+    "product_name": "MANGO PEOPLE T-SHIRT",
+    "price": 129.00
+  },
+  {
+    "id_product": 78,
+    "product_name": "MANGO PEOPLE T-SHIRT",
+    "price": 56.00
+  },
+  {
+    "id_product": 78,
+    "product_name": "MANGO PEOPLE T-SHIRT",
+    "price": 75.00
+  },
+  {
+    "id_product": 78,
+    "product_name": "MANGO PEOPLE T-SHIRT",
+    "price": 52.00
   }
 ]
