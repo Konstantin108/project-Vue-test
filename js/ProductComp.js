@@ -43,6 +43,7 @@ Vue.component('product', {
 
     template: `
     <div class="product-item">
+                <div class="img-from-json">{{product.product_image}}</div>
                 <img :src="img" alt="Some img" class="oops-img">
                 <div class="desc">
                     <h3>{{product.product_name}}</h3>
