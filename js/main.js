@@ -1,4 +1,4 @@
-const API = 'https://raw.githubusercontent.com/Konstantin108/project-Vue-test/master/responses';
+
 
 const app = new Vue({
     el: '#app',
