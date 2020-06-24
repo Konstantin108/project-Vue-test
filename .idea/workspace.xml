@@ -2,10 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a3a46c6-d00c-439b-8472-d5fbe5a34f4c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/ProductComp.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/ProductComp.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/responses/catalogData.json" beforeDir="false" afterPath="$PROJECT_DIR$/responses/catalogData.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/responses/img/product_content.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/responses/img_catalog/product_content1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/responses/img_catalog/product_content2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/responses/img_catalog/product_content3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/responses/img_catalog/product_content4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/responses/img_catalog/product_content5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/responses/img_catalog/product_content6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/responses/img_catalog/product_content7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/responses/img_catalog/product_content8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/responses/img_catalog/product_content9.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +68,7 @@
       <workItem from="1590357823137" duration="75000" />
       <workItem from="1590960663170" duration="41000" />
       <workItem from="1593010686950" duration="5731000" />
-      <workItem from="1593020640259" duration="627000" />
+      <workItem from="1593020640259" duration="965000" />
     </task>
     <servers />
   </component>
