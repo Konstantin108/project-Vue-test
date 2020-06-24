@@ -1,54 +1,54 @@
 [
   {
-    "product_image": "/responses/img/product_content.jpg",
+    "product_image": "https://github.com/Konstantin108/project-Vue-test/blob/master/responses/img/product_content.jpg",
     "id_product": 12,
     "product_name": "MANGO PEOPLE T-SHIRT",
     "price": 50.50
   },
   {
-    "product_image": "/responses/img/product_content.jpg",
+    "product_image": "https://github.com/Konstantin108/project-Vue-test/blob/master/responses/img/product_content.jpg",
     "id_product": 34,
     "product_name": "MANGO PEOPLE T-SHIRT",
     "price": 50.50
   },
   {
-    "product_image": "/responses/img/product_content.jpg",
+    "product_image": "https://github.com/Konstantin108/project-Vue-test/blob/master/responses/img/product_content.jpg",
     "id_product": 56,
     "product_name": "MANGO PEOPLE T-SHIRT",
     "price": 52.00
   },
   {
-    "product_image": "/responses/img/product_content.jpg",
+    "product_image": "https://github.com/Konstantin108/project-Vue-test/blob/master/responses/img/product_content.jpg",
     "id_product": 78,
     "product_name": "MANGO PEOPLE T-SHIRT",
     "price": 89.00
   },
   {
-    "product_image": "/responses/img/product_content.jpg",
+    "product_image": "https://github.com/Konstantin108/project-Vue-test/blob/master/responses/img/product_content.jpg",
     "id_product": 78,
     "product_name": "MANGO PEOPLE T-SHIRT",
     "price": 89.99
   },
   {
-    "product_image": "/responses/img/product_content.jpg",
+    "product_image": "https://github.com/Konstantin108/project-Vue-test/blob/master/responses/img/product_content.jpg",
     "id_product": 78,
     "product_name": "MANGO PEOPLE T-SHIRT",
     "price": 129.00
   },
   {
-    "product_image": "/responses/img/product_content.jpg",
+    "product_image": "https://github.com/Konstantin108/project-Vue-test/blob/master/responses/img/product_content.jpg",
     "id_product": 78,
     "product_name": "MANGO PEOPLE T-SHIRT",
     "price": 56.00
   },
   {
-    "product_image": "/responses/img/product_content.jpg",
+    "product_image": "https://github.com/Konstantin108/project-Vue-test/blob/master/responses/img/product_content.jpg",
     "id_product": 78,
     "product_name": "MANGO PEOPLE T-SHIRT",
     "price": 75.00
   },
   {
-    "product_image": "/responses/img/product_content.jpg",
+    "product_image": "https://github.com/Konstantin108/project-Vue-test/blob/master/responses/img/product_content.jpg",
     "id_product": 78,
     "product_name": "MANGO PEOPLE T-SHIRT",
     "price": 52.00
