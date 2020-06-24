@@ -1,7 +1,7 @@
 Vue.component('cart', {
     data() {
         return {
-            imgCart: 'img/oops.jpg',
+            // imgCart: 'img/oops.jpg',
             cartUrl: '/getBasket.json',
             cartItems: [],
             showCart: false,
@@ -54,7 +54,7 @@ Vue.component('cart', {
                 v-for="item of cartItems" 
                 :key="item.id_product"
                 :cart-item="item" 
-                :img="imgCart"
+                :img="item.product_img"
                 @remove="remove">
                 </cart-item>
             </div>
